@@ -1,0 +1,21 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "serbeh",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "latest",
+    "bulma-badge": "latest",
+    "bulma-checkradio": "latest",
+    "bulma-divider": "latest",
+    "bulma-pageloader": "latest",
+    "bulma-steps": "latest",
+    "bulma-tooltip": "latest``"
+  }
+}
