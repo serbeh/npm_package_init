@@ -10,12 +10,13 @@
   "author": "serbeh",
   "license": "ISC",
   "dependencies": {
+    "animate.css":"latest",
     "bulma": "latest",
     "bulma-badge": "latest",
     "bulma-checkradio": "latest",
     "bulma-divider": "latest",
     "bulma-pageloader": "latest",
     "bulma-steps": "latest",
-    "bulma-tooltip": "latest``"
+    "bulma-tooltip": "latest"
   }
 }
