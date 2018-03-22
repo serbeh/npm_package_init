@@ -10,6 +10,7 @@
   "author": "serbeh",
   "license": "ISC",
   "dependencies": {
+    "smooth-parallax": "latest",
     "animate.css":"latest",
     "bulma": "latest",
     "bulma-badge": "latest",
